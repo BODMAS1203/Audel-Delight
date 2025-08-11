@@ -1,6 +1,4 @@
-# Welcome to your Lovable project
-
-
+# Welcome to Audel Delight 
 
 This project is built with:
 
@@ -9,6 +7,4 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
 
